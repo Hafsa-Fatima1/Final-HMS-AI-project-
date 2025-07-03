@@ -109,10 +109,8 @@ class HMS:
         print(f"\t\tTHANK YOU FOR TESTING OUR {Colors.BLUE}HOSPITAL MANAGEMENT SYSTEM{Colors.RESET}")
         print(f"\n\t\t{Colors.MAGENTA}CODE DESIGNERS:{Colors.RESET}")     # Team credits header
         # Display team member names and IDs with different colors
-        print(f"\t\t             MUHAMMAD HAMZA        : {Colors.GREEN}F2022266467{Colors.RESET}")
-        print(f"\t\t             MUHAMMAD ABDULLAH     : {Colors.YELLOW}F2022266463{Colors.RESET}")
-        print(f"\t\t             SYED MUHAMMAD QAVI    : {Colors.RED}F2022266496{Colors.RESET}")
-        print(f"\t\t             UZAIR SAQIB           : {Colors.CYAN}F2022266451{Colors.RESET}")
+        print(f"\t\t             Hafsa Fatima    : {Colors.GREEN}F2022266713{Colors.RESET}")
+        print(f"\t\t             Urooj Asghar    : {Colors.YELLOW}F2022266035{Colors.RESET}")
         print("\n" * 7)                                                   # Add vertical spacing
 
 class Person(ABC):
